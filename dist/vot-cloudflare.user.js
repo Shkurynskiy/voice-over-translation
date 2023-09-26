@@ -909,7 +909,7 @@ const sitesProxyTok = [
 /* harmony export */   i: () => (/* binding */ workerHost)
 /* harmony export */ });
 // CLOUDFLARE CONFIGURATION
-const workerHost = "vot-new.toil-dump.workers.dev";
+const workerHost = "hello-world-misty-art-3f05.gibeges645.workers.dev";
 const yandexHmacKey = "xtGCyGdTY2Jy6OMEKdTuXev3Twhkamgm";
 
 
